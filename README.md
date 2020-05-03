@@ -1,4 +1,4 @@
-# C-_NN
+# C++_NN
 C++ Neural Network Library
 
 
